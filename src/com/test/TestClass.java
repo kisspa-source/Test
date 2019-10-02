@@ -8,5 +8,6 @@ package com.test;
 public class TestClass {
 	int id;
 	String name;
+	String message;
 	
 }
